@@ -170,9 +170,9 @@ $(function() {
       transition: 'fade2',
       transitionDuration: 2000,
       slides: [
-        { src: "../img/sliders/slider1.jpg" },
-        { src: "../img/sliders/slider2.jpg" },
-        { src: "../img/sliders/slider3.jpg" }
+        { src: "img/sliders/slider1.jpg" },
+        { src: "img/sliders/slider2.jpg" },
+        { src: "img/sliders/slider3.jpg" }
       ],
       animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
